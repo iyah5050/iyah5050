@@ -1,6 +1,6 @@
 - 👋 Hi, I’m iyah obadiah
 - 👀 I’m interested in learning programming 
-- 🌱 I’m currently html css javascript phyton and php
+- 🌱 I’m currently learning html css javascript phyton and php
 - 💞️ I’m looking to collaborate on any project available 
 - 📫 How to reach me 08162218128
 - 😄 Pronouns: he
